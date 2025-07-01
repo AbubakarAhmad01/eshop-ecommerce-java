@@ -91,6 +91,12 @@ Update the file with your DB credentials:
 ### ⚙️ Admin Dashboard
 ![Admin Dashboard](screenshots/admin-dashboard.png)
 
+### ⚙️ cart page
+![Admin Dashboard](screenshots/cart.png)
+
+### ⚙️ Order placed page
+![Admin Dashboard](screenshots/order-placed.png)
+
 ---
 
 ## ✍️ Author
